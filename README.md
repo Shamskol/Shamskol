@@ -1,7 +1,9 @@
-### Hi there 👋
+Hello, I am Kolade Junaid a Full Stack Developer ,an innovative and self-motivated individual @ Lambda seeking to problem solve and apply my skills to create technology to make the world a better place.
 
-<!--
-**Shamskol/Shamskol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SKILLS
+
+HTML | CSS | JavaScript | React | Redux | Jest | React Testing Library | NodeJS | Express | SQL | Knex | SQLite3 | PostgresSQL | Python | MongoDB | Git/Github | Heroku | Netlify |
+
 
 Here are some ideas to get you started:
 
