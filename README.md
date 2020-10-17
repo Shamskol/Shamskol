@@ -7,12 +7,11 @@ HTML | CSS | JavaScript | React | Redux | Jest | React Testing Library | NodeJS 
 
 
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning GraphQl, MongoDb, Next.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on building stuff and peer programming
 - 💬 Ask me about Phyton, Full Stack development
-- 📫 How to reach me: 
+
 
 
 
