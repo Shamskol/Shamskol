@@ -5,7 +5,7 @@ SKILLS
 HTML | CSS | JavaScript | React | Redux | Jest | React Testing Library | NodeJS | Express | SQL | Knex | SQLite3 | PostgresSQL | Python | MongoDB | Git/Github | Heroku | Netlify |
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning GraphQl, MongoDb, Next.js
