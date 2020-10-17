@@ -10,7 +10,7 @@ HTML | CSS | JavaScript | React | Redux | Jest | React Testing Library | NodeJS 
 
 - 🌱 I’m currently learning GraphQl, MongoDb, Next.js
 - 👯 I’m looking to collaborate on building stuff and peer programming
-- 💬 Ask me about Phyton, Full Stack development
+- 💬 Ask me about Python, Full Stack development
 
 
 
